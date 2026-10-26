@@ -1,0 +1,39 @@
+# Unity-generated local state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Tt]est[Rr]esults/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# OS files and crash reports
+.DS_Store
+Thumbs.db
+Desktop.ini
+sysinfo.txt
+*.stackdump
+*.log
+
+# Local captures and exported packages
+*.unitypackage
+/Assets/AssetStoreTools/
